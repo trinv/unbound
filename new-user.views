@@ -1,0 +1,14 @@
+local-zone: "youtube.com" redirect
+local-data: "youtube.com IN A 34.238.235.164"
+
+local-zone: "ytimg.l.google.com" redirect
+local-data: "ytimg.l.google.com IN A 34.238.235.164"
+
+local-zone: "m.youtube.com" redirect
+local-data: "m.youtube.com IN A 34.238.235.164"
+
+local-zone: "ytimg.com" redirect
+local-data: "ytimg.com IN A 34.238.235.164"
+
+local-zone: "googlevideo.com" redirect
+local-data: "googlevideo.com IN A 34.238.235.164"
