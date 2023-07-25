@@ -8,6 +8,7 @@ https://unbound.docs.nlnetlabs.nl/en/latest/getting-started/installation.html
 ## Preparing
 Installing Python/Python3
 ```
+sudo apt install -y build-essential libssl-dev libunbound-dev libevent-dev libexpat1-dev libldns-dev net-tools bind9-utils
 apt-get install python
 apt-get install python3
 apt-get install python-dev
